@@ -17,16 +17,20 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
+* [✓] added home about and login text in header (no clickable funtionality)
+* [✓] added hover effect for when going over home, about, and login text
+* [✓] added hover effect and tranisition for funded, unfunded and show all games buttons
 * [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/3CpJhCX' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ...  Licecap
+https://www.cockos.com/licecap/
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -35,10 +39,11 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+the only challenge I came across was the fact that destructuring wasnt working properly for me, and the given example also just did not work when i tried to implement it into my code, i got around this by just making 2 variables and setting them equal to the objects of first and second place.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Prabveer Pannu]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
